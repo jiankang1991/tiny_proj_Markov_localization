@@ -50,6 +50,6 @@ That is the core of Markov localization.
 
 For visualization of markdown with latex, I use VS Code with the [extension](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one).
 
-
+For configuing c++ task in VS code, please refer to [link](https://code.visualstudio.com/docs/languages/cpp).
 
 
